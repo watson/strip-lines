@@ -1,0 +1,36 @@
+{
+  "name": "strip-lines",
+  "version": "0.0.0",
+  "description": "Remove n lines from the beginning of a string",
+  "main": "index.js",
+  "scripts": {
+    "test": "standard && tape test.js"
+  },
+  "keywords": [
+    "strip",
+    "remove",
+    "trim",
+    "line",
+    "lines",
+    "crlf",
+    "newline"
+  ],
+  "author": "Thomas Watson Steen <w@tson.dk> (https://twitter.com/wa7son)",
+  "license": "MIT",
+  "devDependencies": {
+    "standard": "^5.1.1",
+    "tape": "^4.2.0"
+  },
+  "dependencies": {
+    "standard": "^5.1.1",
+    "tape": "^4.2.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/watson/strip-lines.git"
+  },
+  "bugs": {
+    "url": "https://github.com/watson/strip-lines/issues"
+  },
+  "homepage": "https://github.com/watson/strip-lines#readme"
+}
