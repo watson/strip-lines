@@ -1,6 +1,6 @@
 {
   "name": "strip-lines",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Remove n lines from the beginning of a string",
   "main": "index.js",
   "scripts": {
@@ -31,7 +31,7 @@
   },
   "homepage": "https://github.com/watson/strip-lines#readme",
   "coordinates": [
-    55.6876011722451,
-    12.595897007637063
+    55.6877134,
+    12.5956538
   ]
 }
